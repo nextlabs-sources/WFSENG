@@ -1,0 +1,24 @@
+# Produce version information
+#
+# Description:
+#	This file should be included in top-level Makefile 
+# http://sharepoint/sites/support/release/Lists/Current%00Releases/AllItems.aspx
+
+
+VERSION_PRODUCT_EDP			= Enterprise Data Protection
+VERSION_MAJOR_EDP			= 8
+VERSION_MINOR_EDP			= 0
+VERSION_MAINTENANCE_EDP		= 0
+VERSION_PATCH_EDP			= 314
+
+VERSION_PRODUCT_UPDATER		= NextLabs Data Protection
+VERSION_MAJOR_UPDATER		= 7
+VERSION_MINOR_UPDATER		= 5
+VERSION_MAINTENANCE_UPDATER	= 0
+VERSION_PATCH_UPDATER		= 0
+
+VERSION_PRODUCT_WFSE		= NextLabs Windows File Server Enforcer
+VERSION_MAJOR_WFSE			= 8
+VERSION_MINOR_WFSE			= 0
+VERSION_MAINTENANCE_WFSE	= 0
+VERSION_PATCH_WFSE			= 314
